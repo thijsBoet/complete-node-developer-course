@@ -1,0 +1,4 @@
+This file was created by NodeJS!
+This part was appended using appendFile!
+Your computer is running a Intel(R) Core(TM) i5-4690 CPU @ 3.50GHz with x64 architecture!
+On a  Windows 10 Pro machine

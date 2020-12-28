@@ -1,0 +1,17 @@
+{
+  "name": "notes-app",
+  "version": "1.0.0",
+  "description": "Notes App",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Matthijs Boet",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "global": "^4.4.0",
+    "nodemon": "^2.0.6",
+    "validator": "^13.5.2"
+  }
+}
