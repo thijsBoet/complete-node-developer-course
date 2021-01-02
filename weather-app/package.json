@@ -1,0 +1,16 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "Weather app build in Node, based on the weather stack API",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": ["weather"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "postman-request": "^2.88.1-postman.27"
+  }
+}
