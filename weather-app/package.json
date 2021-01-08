@@ -1,16 +1,18 @@
 {
-  "name": "weather-app",
+  "name": "web-server",
   "version": "1.0.0",
-  "description": "Weather app build in Node, based on the weather stack API",
-  "main": "app.js",
+  "description": "",
+  "main": "index.js",
   "scripts": {
-    "start": "nodemon app.js"
+    "start": "node src/app.js"
   },
-  "keywords": ["weather"],
+  "keywords": [],
   "author": "",
-  "license": "MIT",
+  "license": "ISC",
   "dependencies": {
     "dotenv": "^8.2.0",
-    "postman-request": "^2.88.1-postman.27"
+    "express": "^4.16.4",
+    "hbs": "^4.0.1",
+    "request": "^2.88.0"
   }
 }
