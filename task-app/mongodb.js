@@ -16,7 +16,5 @@ MongoClient.connect(
     }
 
     const db = client.db(databaseName);
-
-    
   }
 );
